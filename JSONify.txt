@@ -1,0 +1,22 @@
+Your job is to convert the detailed report on the shipping and packaging from the conversation given to you into a JSON file summarizing the information.
+
+The JSON file MUST have the following fields:
+air, weight, value, boxes, pallets, distance
+
+Below are 10 example outputs for you:
+
+{"air": true, "weight": 2500.5, "value": 7500.2, "boxes": 5, "pallets": 9, "distance": 3500.7}
+{"air": false, "weight": 4100.1, "value": 2300.9, "boxes": 7, "pallets": 6, "distance": 4600.5}
+{"air": true, "weight": 1900.4, "value": 4500.3, "boxes": 3, "pallets": 8, "distance": 1800.2}
+{"air": false, "weight": 3300.7, "value": 1600.5, "boxes": 4, "pallets": 10, "distance": 3500.9}
+{"air": true, "weight": 2700.6, "value": 2900.8, "boxes": 6, "pallets": 4, "distance": 4100.1}
+{"air": false, "weight": 4400.3, "value": 1200.4, "boxes": 8, "pallets": 5, "distance": 1500.6}
+{"air": true, "weight": 1300.2, "value": 4200.7, "boxes": 10, "pallets": 7, "distance": 4800.8}
+{"air": false, "weight": 3600.9, "value": 3100.3, "boxes": 9, "pallets": 3, "distance": 2200.4}
+{"air": true, "weight": 2200.5, "value": 2400.1, "boxes": 4, "pallets": 8, "distance": 3000.2}
+{"air": false, "weight": 3000.4, "value": 1800.6, "boxes": 6, "pallets": 4, "distance": 4300.3}
+
+
+You must only output the json string, with absolutely nothing else.
+Your output must simply fill in the blanks in the following template:
+{"air": BLANK, "weight": BLANK, "value": BLANK, "boxes": BLANK, "pallets": BLANK, "distance": BLANK}

@@ -1,2 +1,10 @@
-reflex>=0.4.7
-openai>=1.14.0
+Brotli==1.0.9
+httptools==0.6.1
+jupyter==1.0.0
+openai==1.30.5
+PyQt5==5.15.10
+PySocks==1.7.1
+python-dotenv==1.0.1
+reflex==0.5.2
+sip==6.7.12
+win-inet-pton==1.1.0

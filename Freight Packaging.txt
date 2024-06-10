@@ -1,0 +1,157 @@
+﻿How to prepare LTL shipments for FedEx Freight
+FedEx Freight is for less-than-truckload (LTL) shipments to destinations in the contiguous U.S., Mexico, and Canada. Here are some general guidelines for shipping with this service.
+
+
+Check your shipment weight and size. Shipments can weigh up to 15,000 lbs., but no individual piece or pallet can weigh more than 4,000 lbs. They can measure up to 15 feet in length. Shipments that are heavier or larger require special approvals.
+
+
+Palletize your shipment. We encourage you to pack all freight shipments on a pallet to ensure handling eﬃciency and reduce package damage.
+
+
+Include a packing base. Use a handling base to maintain package orientation, eﬃciency, safety, and protection.
+
+
+Temperature fluctuations are likely.
+The cargo areas of our trucks are not temperature controlled. Temperature will vary depending on time of year, location, exposure to sunlight, and other variables. Summer temperatures in the cargo area can be up to 30 degrees higher than the temperature outside.
+
+
+Liftgates limit shipment weight and size. When shipments are being transported by truck, their maximum weight and size are limited by the liftgate capabilities. Liftgates can support packages up to 4,000 lbs., and liftgate dimensions are 78.75" x 30". Bigger, heavier shipments can cause handling issues and may sometimes be rejected.
+
+
+
+
+
+
+Include a packing base. Shipments must be on a pallet, skid, or other forklift- and pallet-jack-accessible base with a minimum clearance of 3-1/2". (Pallet-jack entry is required on two sides of the base.)
+
+
+Shipments must be stackable. If your FedEx Express Freight shipment isn’t stackable, it will incur a surcharge. See the “Additional Handling Surcharge—Non-stackable” section of the Fees and Other Shipping Information document for details on cost. 
+
+
+Prior approval might be required. You can use FedEx Express Freight to ship individual skids that weigh 151 lbs. or more. Skids that weigh more than 2,200 lbs. require prior approval. Skids over 70" high, 119" long, or 80" wide also require prior approval.
+
+
+Use unbreakable banding on large pieces. Band individual pieces over 150 lbs. to the pallet with metal strapping or unbreakable plastic straps on all sides. Hardened containers like plywood or metal that aren’t banded should have an exterior lock or clamp. (Glue, nails, and screws are not suﬃcient.) 
+
+
+Temperature ﬂuctuations are likely. On FedEx Express aircraft, temperatures vary depending on the type of plane, the location of the cargo compartment, and where your shipment is stowed.
+
+
+Shipment dimensions are limited. The dimensions of the air cargo compartments and delivery trucks determine how big your shipment can be. 
+
+
+
+Packaging materials for shipping large items
+Here are some tips on different types of packaging materials you can use to pack and ship your freight.
+
+
+
+
+Shipping pallets
+Pallets are useful packing material for shipping large items because they’re sturdy and provide solid foundations for single- or multi-unit loads. Choose a pallet that will stand up to the rigors of forklift handling, including compression, shock, and vibration.
+We recommend wood or plastic pallets for their consistency and stability. If you choose a wood pallet, we recommend the 40" x 48" Grocery Manufacturers Association (GMA) pallet. (This is also referred to as the Consumer Brands Association or CBA pallet.) 
+Plastic pallets are another good option because they’re sturdy and reusable, but they can get slippery. They can also be heavier than wood, so consider that if weight is an important factor to you. 
+We do not recommend corrugated cardboard, pressed block-style, or molded pulp pallets. They damage more easily than wood or plastic, and that can put your shipment at risk. 
+
+
+
+
+
+Shipping crates
+When constructed properly, wooden crates are a good option for shipping large items. To help ensure that your shipment is protected, crates should be made of quality lumber, ideally plywood. Avoid using oriented strand board (OSB), medium-density ﬁberboard (MDF), or particleboard. The size and weight of the shipment can help you decide on the crate conﬁguration and style, including what packaging materials and fastener types to use.
+Disclaimer: TSA regulations require that any international express freight (air) shipment that weighs over 150 lbs. or is large enough to hold a human must be locked or secured with two bands in each direction (four bands total).
+
+
+
+
+
+Freight boxes
+Also called bulk bins, cargo boxes, or bulk containers, freight boxes are larger and sturdier than standard shipping boxes. They can be made of corrugated cardboard, wood, or plastic, and they come in different sizes to accommodate a lot of different products. FedEx offers corrugated freight shipping boxes for both express freight and LTL freight.
+
+
+
+
+
+Bagged products
+Bagged products like gardening materials, baking ingredients, and chemicals can shift and change shape based on how they’re packed and stacked. The packaging is also susceptible to puncturing during transit. Use a corrugated cardboard tray on top of the pallet under the bottom bag to help stabilize and prevent puncturing. Interlock-stack the bags and use tier sheets to help prevent shifting. Then use a second tray to cover the unitized load. If possible, use cardboard to protect the outsides of the bags.
+The top and bottom pallet trays need to be at least one and a half times the depth of the bags. Use stretch wrap and banding to ensure that all bags stay well within the pallet perimeter. Cushion the unitized perimeter with corrugated boards as necessary.
+
+
+Drums and pails
+These packaging items often contain liquid, making them susceptible to shifting. Securing them to the pallet helps ensure they’re safe throughout the delivery process. 
+* Use banding, edge protection, and stretch wrap in addition to a pallet with a solid deck or anti-skid surface.
+* Don’t stack more than two drums or three pails high.
+* Ensure stacked drums and pails are nestable.
+* If you’re packing multiple units in a tier, also band them horizontally around the perimeter for added stability.
+* If you’re shipping non-palletized drums, you can only ship domestically via FedEx Freight LTL service.
+
+
+Spools and reels
+Spools and reels tend to roll and shift during transit, and they’re diﬃcult to lift. Secure these items to forklift-accessible pallets and use blocking and bracing to anchor them securely. See securing freight for more information.
+
+
+Transit cases
+If you’re shipping transit cases with caster wheels, the cases must be palletized. Remove the wheels or use blocks to suspend the cases above the deck boards. This will help keep them from moving around on the skid. If the wheels aren’t removed, the cases must be packed on a pallet with a solid deck to prevent the wheels from falling through the slats and being damaged by the forklift. 
+Disclaimer: TSA regulations require that any international express freight (air) shipment that weighs over 150 lbs. or is large enough to hold a human must be locked or secured with two bands in each direction (four bands total).
+
+
+
+How to secure freight shipments
+Large and fragile items can encounter shock and vibration during the shipping process. Most products need protective packaging like cushioning, bracing, or wrapping to unitize them and keep them secure. This is especially true of large items like furniture. Here are a few products to consider when creating your freight shipping strategy.
+
+
+Foam cushioning—Foam density levels vary, so make sure the foam you choose is dense enough to protect your product. It’s a good idea to test the cushioning in an environment that simulates the actual shipping conditions.  
+
+
+Blocking—Use blocking material like wood to prevent any movement when shipping single heavy goods. For items over 1,500 lbs., use hardwood pallets and blocking material, and use at least two fasteners in each brace to prevent pivoting and ensure adequate strength.  
+
+
+Bracing—Items that can roll or shift because of their shape or size should be braced on a forklift-accessible pallet base. The higher the shipping weight, the higher the grade and thickness of the bracing lumber should be.
+
+
+Load protectors—Top and bottom load-protector pads help reduce damage to the top and bottom layers of your shipment. They also help distribute the weight of top-loaded freight. Bottom load protectors provide a level surface, offer protection from pallet nail heads, and help keep boxes from slipping into the gaps between the boards on the pallet.
+
+
+Edge boards—Also called angle boards, edge boards should run the full length or depth of the stack to help unitize the load, increase vertical stacking strength, and reduce damage to box edges that make up the load corners.
+
+
+Bands—Banding secures the bundled load to the pallet. Keep the banding close to the load to avoid exposure, damage, or breakage. Loads signiﬁcantly smaller than the pallet should be centered and banded to the closest pallet deck boards, not the pallet exterior. Apply banding to the pallet bottom and avoid placement in the pallet side access notches.
+
+
+Stretch wrap—This material is critical for bundling loads and securing and protecting large individual pieces. Wrap loads tightly to prevent shifting. Use 70-gauge stretch wrap that sticks to itself so it can be wipe-sealed as it’s applied. To properly secure the load to the pallet, make sure you’ve achieved the minimum containment force.
+Tips for securing specialty freight
+Items like tires, engines, pipes, medical devices, and electronic equipment require special specialty packaging. Here’s a high-level overview of how to pack each of these product types. 
+
+
+Packing tires
+Band and stretch wrap tires to a pallet. Use an anti-skid surface for tall stacks to reduce product movement. Use a tie-on tag or a tire/crate label.
+
+
+Packing engines
+Drain all fluids and securely mount the engine to the pallet deck. Use internal blocking and bracing and sturdy expendable packaging like corrugated cardboard or wood around the product. Add stretch wrap and banding for additional protection and containment.
+Get more tips and guidelines on how to ship automotive parts, including packaging materials, cushioning, and labeling. 
+
+
+Packing long freight
+During shipping, long items like pipes can damage other cargo and can even pose a threat to trucks and planes when they’re not packed properly. It’s important to bundle, secure, and crate these items. Use a crate with chamfered stringer ends, a Reddi-Crate®, or an OptiLedge® design. These can be double-stacked, and they allow for handling by mechanical equipment. Make sure labels and paperwork will adhere to the outside.
+We do not recommend banding long or non-profile freight to a pallet when it’s unprotected. It doesn’t provide outer protection for double stacking or blocking on the ends to prohibit side-to-side shifting. Shipping labels might not adhere to an uneven surface, risking shipment loss.
+
+
+Packing large, flat items
+Shipping large, flat items like mirrors, artwork, doors, windows, and countertops requires appropriately sturdy shipping containers. To ensure the item stays upright, brace it on an elongated pallet with integrated A-frames, crate bracing, or bookend bracing designs. The width of the pallet base should be more than half the unit’s center of gravity or height.
+
+
+Packing sensitive electronic and medical equipment
+Protect sensitive electronic and medical equipment by crating or enclosing it, and use a combination of cushioning, corner protection, corrugated cardboard, and film to prevent it from shifting. You can bolt the product to the pallet deck and use banding and stretch wrap to secure it on the pallet. 
+
+
+Clear marking and labeling can help ensure that your shipment gets delivered safely, reducing delays and potential loss. Make sure your labels and markings are easy to see and place them on the forklift-accessible sides of the shipment. Remove or mark through any old labels, tags, or markings. Be descriptive with your markings and labeling. Attach consignee information and pro numbers to all sides of your shipment. Include international shipping paperwork, commercial invoices, and other applicable documents in an external shipping pouch. Common labels include:
+
+
+This end up
+Fragile
+Handle with care
+Center of gravity
+When a shipment is palletized, arrow markings or “this end up” labels increase the likelihood that the item will stay in the correct orientation during shipment. Be sure to design all freight shipments to support stacking. 
+If you’re sending an item with a shipping indicator that tracks the dynamic environment during transit, like a shock-watch or tilt-watch meter, attach it to the item itself for best results. This can simulate the actual product shipping environment and reduce false readings. However, these indicators are not valid for damage claim purposes.
+FedEx Express offers labels designed to be applied to tire treads. They also work for crates, plastic-wrapped products, pails, and other applications where it’s hard to achieve good label adhesion.
