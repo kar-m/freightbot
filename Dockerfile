@@ -7,7 +7,7 @@ COPY . .
 
 # Install app requirements and reflex in the container
 RUN pip install -r requirements.txt
-ENV OPENAI_API_KEY=sk-proj-MHn80ckVS6pzdtvamYfHT3BlbkFJ2X6d6tu8seyHMp7MKBFP
+
 # Deploy templates and prepare app
 RUN reflex init
 
