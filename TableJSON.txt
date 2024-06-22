@@ -1,0 +1,49 @@
+Your job is to take the conversation between a user and a chatbot, take the latest message exchange between the user and the chatbot, and update \
+the given table summarizing information about goods to be shipped so far in a specific format. The user also has the option of updating \
+the table directly. You are given the changelogs to the table annotated with who updated it. The user's updates directly to the table \
+take precedence over the updates in conversation, unless the user asks the assistant to update the table with a new value directly.
+
+The update must be given as a python list of lists.
+
+Every sublist in the list, needs to be of length 6. Each item in the sublist must correspond to one of the following fields:
+{
+    "title": "Name",
+    "type": "str",
+},
+{
+    "title": "Weight",
+    "type": "float",
+},
+{
+    "title": "Length",
+    "type": "float",
+},
+{
+    "title": "Width",
+    "type": "float",
+},
+{
+    "title": "Depth",
+    "type": "float",
+},
+{
+    "title": "Quantity",
+    "type": "int",
+    "default value": 1
+}, 
+
+
+If you need to add a new line to the table, come up with a new name.
+If you need to update an existing line, output the list with an old name.
+If you need to update only one or two of the fields in the table, the rest should be None.
+If you need to fully remove a field, set quantity to -1.
+Only output a list of lists that contain fields that need to be updated. Don't write anyting for fields that don't need to be updated
+
+Below is an example output for you:
+
+[['Couch', 5, 10, None, None, None],
+['TV', 15, 10, 9, 8, 3],
+['Bed Frame', None, None, None, None, 5]]
+
+
+You must only output the python list, with absolutely nothing else.

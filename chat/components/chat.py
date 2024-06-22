@@ -2,6 +2,8 @@ import reflex as rx
 
 from chat.components import loading_icon
 from chat.state import QA, State
+import asyncio
+from reflex_calendar import calendar
 
 
 message_style = dict(display="inline-block", padding="1em", border_radius="8px", max_width=["30em", "30em", "50em", "50em", "50em", "50em"])
@@ -60,47 +62,83 @@ def action_bar() -> rx.Component:
     """The action bar to send a new message."""
     return rx.center(
         rx.vstack(
-            rx.chakra.form(
-                rx.chakra.form_control(
-                    rx.hstack(
-                        rx.radix.text_field.root(
-                            rx.radix.text_field.input(
-                                placeholder="Type something...",
-                                id="question",
-                                width=["15em", "20em", "45em", "50em", "50em", "50em"],
+            rx.hstack(rx.foreach(rx.selected_files("upload1"), rx.text)),
+            rx.hstack(                
+                img_upload(),
+                rx.chakra.form(
+                    rx.chakra.form_control(
+                        rx.hstack(
+                            rx.radix.text_field.root(
+                                rx.radix.text_field.input(
+                                    placeholder="Type something...",
+                                    id="question",
+                                    width=["15em", "20em", "45em", "50em", "50em", "50em"],
+                                ),
+                                rx.radix.text_field.slot(
+                                    rx.tooltip(
+                                        rx.icon("info", size=18),
+                                        content="Enter a question to get a response.",
+                                    )
+                                ),
                             ),
-                            rx.radix.text_field.slot(
-                                rx.tooltip(
-                                    rx.icon("info", size=18),
-                                    content="Enter a question to get a response.",
-                                )
+                            rx.button(
+                                rx.cond(
+                                    (State.processing | State.uploading),
+                                    loading_icon(height="1em"),
+                                    rx.text("Send"),
+                                ),
+                                type="submit",
                             ),
+                            
+                            align_items="center",
                         ),
-                        rx.button(
-                            rx.cond(
-                                State.processing,
-                                loading_icon(height="1em"),
-                                rx.text("Send"),
-                            ),
-                            type="submit",
-                        ),
-                        align_items="center",
+                        is_disabled=(State.processing | State.uploading),
                     ),
-                    is_disabled=State.processing,
+                    on_submit=[State.process_question, 
+                                rx.clear_selected_files("upload1")],
+                    reset_on_submit=True,
                 ),
-                on_submit=State.process_question,
-                reset_on_submit=True,
-            ),
-            align_items="center",
+
+            )
         ),
         position="sticky",
         bottom="0",
         left="0",
-        padding_y="8px",
         backdrop_filter="auto",
         backdrop_blur="lg",
         border_top=f"1px solid {rx.color('mauve', 3)}",
         background_color=rx.color("mauve", 2),
         align_items="stretch",
         width="100%",
+    )
+
+
+def img_upload() -> rx.Component:        
+    return rx.hstack(
+        rx.upload(
+            rx.button(rx.image(src="/2192072-200.png", width='20px')),
+            id="upload1",
+            padding="0px",
+            on_drop=State.handle_upload(rx.upload_files(upload_id="upload1"))
+        ),
+        #rx.button(
+        #    "Upload",
+        #    on_click=State.handle_upload(rx.upload_files(upload_id="upload1")),
+        #)
+    )
+
+
+def table() -> rx.Component:
+    return rx.vstack(
+        calendar(),
+        rx.data_editor(
+            columns=State.cols,
+            data=State.data,
+            on_cell_edited=State.get_edited_data,
+            align="end"
+        ),
+        rx.button(
+            "Get Quotes",
+            on_click=State.get_quotes()
+        )
     )
